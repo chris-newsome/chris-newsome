@@ -1,6 +1,5 @@
 ### Hi there 👋, Christopher
 #### Software Developer
-![Profile](https://github.com/chris-newsome/chris-newsome/blob/main/Large%20Profile.jpg)
 
 I write front-end and back-end software. I enjoy learning languages and frameworks like React, React Native, and Svelte. I also enjoy wireframing, UI, UX, and design in general.
 
