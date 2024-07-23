@@ -1,6 +1,5 @@
 ### Hi there 👋, Christopher
 #### I am a software developer
-![I am a software developer](C:\Users\e074620\Pictures\Large Profile.jpg)
 
 I write front-end and back-end software. I really enjoy learning languages and frameworks like React and React Nativ, as well as Svelte. I also enjoy wireframing, UI, UX and design in general.
 
