@@ -1,5 +1,5 @@
 ### Hi there 👋, Christopher
-#### I am a software developer
+#### Software Developer
 
 I write front-end and back-end software. I enjoy learning languages and frameworks like React, React Native, and Svelte. I also enjoy wireframing, UI, UX, and design in general.
 
