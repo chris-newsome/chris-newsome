@@ -1,7 +1,7 @@
 ### Hi there 👋, Christopher
 #### I am a software developer
 
-I write front-end and back-end software. I really enjoy learning languages and frameworks like React and React Nativ, as well as Svelte. I also enjoy wireframing, UI, UX and design in general.
+I write front-end and back-end software. I enjoy learning languages and frameworks like React, React Native, and Svelte. I also enjoy wireframing, UI, UX, and design in general.
 
 Skills: REACT / JS / Typescript / HTML / CSS / SVELTE / C# / SQL
 
